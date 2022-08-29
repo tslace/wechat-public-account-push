@@ -35,7 +35,7 @@ export const config = {
     /** 日期相关 */
 
     // 结婚纪念日
-    /**MARRY_DATE: "2020-01-04",*/
+   //MARRY_DATE: "2020-01-04",
 
 
     /** 好文节选 */
